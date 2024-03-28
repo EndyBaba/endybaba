@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="guru.png">
+ <img alt="guru" src="https://github.com/EndyBaba/endybaba/blob/main/guru.png">
 </picture>
+
+- 🌱 I’m currently learning Web development with CoGrammer
+- ⚡ Fun fact: I love football and I support Manchester United FC
